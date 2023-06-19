@@ -1,0 +1,10 @@
+*.xlsx
+data/
+files/
+files_choose/
+files_resized_choose/
+*.zip
+Cas_1/
+Cas_2/
+Cas_3/
+Cas_4/
